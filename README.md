@@ -1,8 +1,9 @@
-#SumoBot_Arduino( Design, Build, Code, Control)
+#SumoBot_Arduino( Design, Build, Code, Control)#
+
 SumoBot_Arduino is an open source Arduino robot based of the Sumobot design by Makenai ( https://github.com/makenai/sumobot-jr ) with plenty of variations. 
 The cost of this kit is aimed to be under the $50 mark ( with some 3D printing and laser cutting involved). The designs and code will be hosted here for anyone to download and modify. This is part of a holiday programme I am running so its a trial to see its feasibility as an activity spread over 3 days. 
 
-Getting Started
+##Getting Started##
 You will need Arduino IDE installed on your computer. Go to https://www.arduino.cc/ to download the software. Alternatively you could use the web version now. 
 
 #Components
