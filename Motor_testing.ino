@@ -30,9 +30,9 @@
 // Pin Assignments //
 //Default pins:
 #define DIRA 12 // Direction control for motor A
-#define PWMA 11  // PWM control (speed) for motor A
+#define PWMA 10  // PWM control (speed) for motor A
 #define DIRB 13 // Direction control for motor B
-#define PWMB 10 // PWM control (speed) for motor B
+#define PWMB 11 // PWM control (speed) for motor B
 
 ////Alternate pins:
 //#define DIRA 8 // Direction control for motor A
