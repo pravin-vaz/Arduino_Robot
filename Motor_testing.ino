@@ -1,19 +1,16 @@
- /* Ardumoto Example Sketch
+/* Ardumoto Example Sketch
   by: Jim Lindblom
   date: November 8, 2013
   license: Public domain. Please use, reuse, and modify this 
   sketch!
-
   Adapted to v20 hardware by: Marshall Taylor
   date: March 31, 2017
-
   Three useful functions are defined:
     setupArdumoto() -- Setup the Ardumoto Shield pins
     driveArdumoto([motor], [direction], [speed]) -- Drive [motor] 
       (0 for A, 1 for B) in [direction] (0 or 1) at a [speed]
       between 0 and 255. It will spin until told to stop.
     stopArdumoto([motor]) -- Stop driving [motor] (0 or 1).
-
   setupArdumoto() is called in the setup().
   The loop() demonstrates use of the motor driving functions.
 */
