@@ -33,7 +33,7 @@ void loop()
     
     //if sensor detects something 
     //if (sensorValue > threshold) {
-      if (true) {
+      if (true) { 
         Serial.println('Object detected: Turning');
         //pick two random numbers
         int randomNumber1 = random(0,3);
